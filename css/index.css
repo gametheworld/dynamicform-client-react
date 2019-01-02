@@ -1,0 +1,25 @@
+/* content */
+.content .content-limit .title {
+    font-weight: 600;
+    margin: 16px 0 10px;
+    color: #313236;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.content .content-limit .img-content {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.content .content-limit .img-content .img {
+    width: 1000px;
+    height: 360px;
+}
+
+.content .content-limit .text-content p {
+    margin: 16px 0;
+    color: #314659;
+    font-size: 20px;
+    line-height: 2;
+}
